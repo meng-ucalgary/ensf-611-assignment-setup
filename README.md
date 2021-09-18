@@ -48,6 +48,16 @@ SciPy version: 1.6.2
 IPython version: 7.22.0
 scikit-learn version: 0.24.1
 yellowbrick version: 1.3
+
+# My versions
+Python version: 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+pandas version: 1.1.3
+matplotlib version: 3.3.2
+NumPy version: 1.19.2
+SciPy version: 1.5.2
+IPython version: 7.19.0
+scikit-learn version: 0.23.2
+yellowbrick version: 1.3
 ```
 
 For me, the list of conda environments include:
