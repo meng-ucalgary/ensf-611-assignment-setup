@@ -39,17 +39,6 @@ print("yellowbrick version:", yellowbrick.__version__)
 
 For me, the package versions are:
 ```
-Python version: 3.8.8 (default, Apr 13 2021, 12:59:45) 
-[Clang 10.0.0 ]
-pandas version: 1.2.4
-matplotlib version: 3.3.4
-NumPy version: 1.19.2
-SciPy version: 1.6.2
-IPython version: 7.22.0
-scikit-learn version: 0.24.1
-yellowbrick version: 1.3
-
-# My versions
 Python version: 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
 pandas version: 1.1.3
 matplotlib version: 3.3.2
@@ -64,7 +53,8 @@ For me, the list of conda environments include:
 ```
 # conda environments:
 #
-base                     /Users/pauc/miniconda3
-ensf-ml               *  /Users/pauc/miniconda3/envs/ensf-ml
+base                     C:\Anaconda
+ENSF-592                 C:\Anaconda\envs\ENSF-592
+ENSF-611              *  C:\Anaconda\envs\ENSF-611
 ```
 Note the `*` indicating that `ensf-ml` is the currently active environment
